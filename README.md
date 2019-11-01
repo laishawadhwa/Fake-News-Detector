@@ -12,5 +12,5 @@ pip install numpy pandas sklearn
 Data-set can be downloaded [here](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view).
 
 # Results
-An accuracy of 92.82% in magnitude.
+An accuracy of 92.82% is obtained on the political Dataset.
 
